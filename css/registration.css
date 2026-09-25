@@ -55,7 +55,7 @@ body {
     border-radius: 16px;
     border: 1px solid var(--sun-border);
     border-top: 6px solid var(--sun-orange);
-    box-shadow: 0 10px 30px rgba(179, 71, 0, 0.18);
+    box-shadow: 0 10px 30px rgba(23, 240, 70, 0.18);
 }
 
 .brand-header {
@@ -156,7 +156,7 @@ textarea::placeholder {
     font-weight: 700;
     letter-spacing: 0.5px;
     cursor: pointer;
-    box-shadow: 0 4px 12px rgba(245, 124, 31, 0.35);
+    box-shadow: 0 4px 12px rgba(23, 240, 70, 0.18);
     -webkit-appearance: none;
     appearance: none;
     transition: transform 0.15s, box-shadow 0.2s, filter 0.2s;
@@ -164,7 +164,7 @@ textarea::placeholder {
 
 .register-btn:hover {
     filter: brightness(1.05);
-    box-shadow: 0 6px 16px rgba(245, 124, 31, 0.45);
+    box-shadow: 0 6px 16px rgba(23, 240, 70, 0.18);
 }
 
 .register-btn:active {
